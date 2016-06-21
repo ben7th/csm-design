@@ -22,7 +22,7 @@
                   - from: "乾元-日鑫月溢"
                     target: "熟悉乾元-日鑫月溢"
                     paths:
-                      nodes:
+                      - nodes:
                         - from: "基本属性"
                           target: "掌握基本属性"
                           paths:
