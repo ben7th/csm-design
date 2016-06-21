@@ -1,0 +1,16 @@
+- from: 理财经理
+  target: 销售理财产品
+  paths:
+    - nodes:
+      - from: 背景知识
+        target: 掌握背景知识
+        paths:
+          - nodes:
+            - text: 背景知识
+            - text: 战略意义
+            - text: 相关政策
+            - text: 我行业务现状
+    - nodes:
+      - text: 本行理财产品
+    - nodes:
+      - text: 销售话术
