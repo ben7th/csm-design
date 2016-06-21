@@ -6,7 +6,6 @@
         target: 掌握背景知识
         paths:
           - nodes:
-            - text: 背景知识
             - text: 战略意义
             - text: 相关政策
             - text: 我行业务现状
