@@ -79,9 +79,14 @@
                                   - text: "银行贷记卡客户"
                         - text: "营销话术（日鑫月溢产品）"
                   - text: "乾元-私享型"
+          - nodes:
             - text: "利得盈系列"
+          - nodes:
             - text: "汇得赢系列"
+          - nodes:
             - text: "建行财富系列"
+          - nodes:
             - text: "其它系列"
     - nodes:
+      - text: "销售礼仪"
       - text: "销售话术"
